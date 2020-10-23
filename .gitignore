@@ -1,0 +1,4 @@
+*.o
+lol1.c
+bin/main
+*~

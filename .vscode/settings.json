@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "array": "c",
+        "istream": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}
